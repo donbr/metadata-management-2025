@@ -1,11 +1,11 @@
 # Emerging Research Directions in Metadata Management: Promising Areas for 2025 and Beyond  
 
-**Don Branson**  
-[https://www.linkedin.com/in/donbranson](https://www.linkedin.com/in/donbranson)
+**Aim Postor**  
+[https://www.linkedin.com/in/aiMpostor](https://example.org)
 
 *Date: February 23, 2025*  
 
-**DISCLAIMER:** This is a *synthetic* paper!!! Although it has enough nuggets of truth to pass as the truth, alas **IT IS NOT FACT**.
+**DISCLAIMER:** This is a *synthetic* paper!!! Although it has enough nuggets of truth to pass as the truth, alas **IT IS NOT FACT**. (it even started with a couple of valid references...)
 
 Consider it an exercise in prompt engineering that highlights the *importance* and *value* of metadata management solutions to provide provenance in discerning fact from fiction.  I created it mostly to create some competency questions for a ChatGPT task to perform daily research in this emerging field.
 
