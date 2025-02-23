@@ -89,6 +89,8 @@ The convergence of AI and metadata management is reshaping data ecosystems. Urge
 
 ## Appendix
 
+> *FINALLY... POTENTIALLY SOME VALUE TO BE GAINED BY ASKING THE RIGHT QUESTIONS TO DRIVE MEANINGFUL RESEARCH...*
+
 ### Competency Questions
 
 A set of **ontology-style competency questions** designed to guide research, tool development, and standardization efforts in next-generation metadata management systems.
