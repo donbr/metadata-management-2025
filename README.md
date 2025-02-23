@@ -7,7 +7,7 @@
 
 **DISCLAIMER:** This is a *synthetic* paper!!! Although it has enough nuggets of truth to pass as the truth, alas **IT IS NOT FACT**.
 
-Consider it an exercise in prompt engineering that highlight the importance and value of metadata management solutions and provenance in discerning fact from fiction.  I created it mostly to create some competency questions for a ChatGPT task to perform daily research in this emerging field.
+Consider it an exercise in prompt engineering that highlights the *importance* and *value* of metadata management solutions to provide provenance in discerning fact from fiction.  I created it mostly to create some competency questions for a ChatGPT task to perform daily research in this emerging field.
 
 ---  
 
