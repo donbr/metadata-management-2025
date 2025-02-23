@@ -89,7 +89,7 @@ The convergence of AI and metadata management is reshaping data ecosystems. Urge
 
 ## Appendix
 
-> *FINALLY... POTENTIALLY SOME VALUE TO BE GAINED BY ASKING THE RIGHT QUESTIONS TO DRIVE MEANINGFUL RESEARCH...*
+> *FINALLY... THE VALUE OF ASKING THE RIGHT QUESTIONS TO DRIVE MEANINGFUL RESEARCH...*
 
 ### Competency Questions
 
